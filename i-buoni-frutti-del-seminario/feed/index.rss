@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: I frutti del seminario</title>
+	<atom:link href="http://trigomiro.net/i-buoni-frutti-del-seminario/feed/" rel="self" type="application/rss+xml" />
+	<link>http://trigomiro.net/i-buoni-frutti-del-seminario/</link>
+	<description>Associazione di Promozione Sociale</description>
+	<lastBuildDate>Sat, 02 Apr 2016 05:15:34 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>By: Torino: Curarsi con la Scrittura in Pillole - Trova Eventi</title>
+		<link>http://trigomiro.net/i-buoni-frutti-del-seminario/#comment-2614</link>
+		<dc:creator><![CDATA[Torino: Curarsi con la Scrittura in Pillole - Trova Eventi]]></dc:creator>
+		<pubDate>Sat, 02 Apr 2016 05:15:34 +0000</pubDate>
+		<guid isPermaLink="false">http://trigomiro.net/?p=6038#comment-2614</guid>
+		<description><![CDATA[[&#8230;] l’ultimo seminario di Curarsi con la Scrittura, le persone non solo hanno riscontrato notevoli benefici, ma una [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] l’ultimo seminario di Curarsi con la Scrittura, le persone non solo hanno riscontrato notevoli benefici, ma una [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 32/65 objects using disk
+Page Caching using disk: enhanced (Page is feed) 
+Minified using disk
+Database Caching 10/19 queries in 0.008 seconds using disk (Request-wide modification query)
+
+Served from: trigomiro.net @ 2019-04-22 23:32:20 by W3 Total Cache
+-->

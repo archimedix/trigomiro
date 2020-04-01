@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>comunicazione | Trigomiro Creativo</title>
+	<atom:link href="http://trigomiro.net/tag/comunicazione/feed/" rel="self" type="application/rss+xml" />
+	<link>http://trigomiro.net</link>
+	<description>Associazione di Promozione Sociale</description>
+	<lastBuildDate>Mon, 21 May 2018 17:01:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Diventa APS Trigomiro Creativo</title>
+		<link>http://trigomiro.net/aps-trigomiro-creativo/</link>
+		<pubDate>Thu, 26 Apr 2012 08:03:35 +0000</pubDate>
+		<dc:creator><![CDATA[volacolvento]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[comunicazione]]></category>
+
+		<guid isPermaLink="false">http://trigomiro.net/?p=679</guid>
+		<description><![CDATA[<p>Da Associazione Culturale Trigomiro Creativo diventa APS! E&#8217; con gioia che possiamo ufficialmente comunicare che ci siamo trasformati in Associazione di Promozione Sociale (APS Trigomiro Creativo)! Un&#8217;evoluzione per essere ancora più organizzati e strutturati, per fornire servizi e creare attività per i nostri soci sempre più di qualità. Non cambia l&#8217;attività ma la forma! Tra poco [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://trigomiro.net/aps-trigomiro-creativo/">Diventa APS Trigomiro Creativo</a> appeared first on <a rel="nofollow" href="http://trigomiro.net">Trigomiro Creativo</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><span style="text-decoration: underline"><strong><a href="http://trigomiro.net/wp-content/uploads/2014/01/lavorincorso.png"><img class="alignleft  wp-image-1141" alt="lavorincorso" src="http://trigomiro.net/wp-content/uploads/2014/01/lavorincorso.png" width="279" height="244" srcset="http://trigomiro.net/wp-content/uploads/2014/01/lavorincorso.png 664w, http://trigomiro.net/wp-content/uploads/2014/01/lavorincorso-300x262.png 300w, http://trigomiro.net/wp-content/uploads/2014/01/lavorincorso-400x349.png 400w" sizes="(max-width: 279px) 100vw, 279px" /></a>Da Associazione Culturale Trigomiro Creativo diventa APS!</strong></span></p>
+<p>E&#8217; con gioia che possiamo ufficialmente comunicare che ci siamo trasformati in Associazione di Promozione Sociale (APS Trigomiro Creativo)! Un&#8217;evoluzione per essere ancora più organizzati e strutturati, per fornire servizi e creare attività per i nostri soci sempre più di qualità.</p>
+<p>Non cambia l&#8217;attività ma la forma!</p>
+<p>Tra poco altre novità….</p>
+<p>The post <a rel="nofollow" href="http://trigomiro.net/aps-trigomiro-creativo/">Diventa APS Trigomiro Creativo</a> appeared first on <a rel="nofollow" href="http://trigomiro.net">Trigomiro Creativo</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 37/69 objects using disk
+Page Caching using disk: enhanced (Page is feed) 
+Minified using disk
+Database Caching 4/19 queries in 0.007 seconds using disk (Request-wide modification query)
+
+Served from: trigomiro.net @ 2019-04-22 23:32:29 by W3 Total Cache
+-->

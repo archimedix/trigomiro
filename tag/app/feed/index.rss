@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>app | Trigomiro Creativo</title>
+	<atom:link href="http://trigomiro.net/tag/app/feed/" rel="self" type="application/rss+xml" />
+	<link>http://trigomiro.net</link>
+	<description>Associazione di Promozione Sociale</description>
+	<lastBuildDate>Mon, 21 May 2018 17:01:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Mobile application per il Vaticano</title>
+		<link>http://trigomiro.net/mobile-application-per-il-vaticano/</link>
+		<comments>http://trigomiro.net/mobile-application-per-il-vaticano/#respond</comments>
+		<pubDate>Thu, 26 May 2011 21:54:53 +0000</pubDate>
+		<dc:creator><![CDATA[archimedix]]></dc:creator>
+				<category><![CDATA[tecnologie]]></category>
+		<category><![CDATA[app]]></category>
+
+		<guid isPermaLink="false">http://trigomiro.net/2011/05/26/mobile-application-per-il-vaticano/</guid>
+		<description><![CDATA[<p>Nel corso del congresso internazionale &#8220;Dalla mater et Magistra alla Caritas in Veritate&#8221; è stata realizzata un sito e un  App chiamata &#8220;dottrina sociale della chiesa&#8221;, dove potete trovare alcuni degli argomenti trattati nel convegno. Dall&#8217;applicazione è anche possibile scaricare l&#8217;ebook di &#8220;caritas in veritate&#8221;, l&#8217;enciclica di papa Benedetto XVI.</p>
+<p>The post <a rel="nofollow" href="http://trigomiro.net/mobile-application-per-il-vaticano/">Mobile application per il Vaticano</a> appeared first on <a rel="nofollow" href="http://trigomiro.net">Trigomiro Creativo</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Nel corso del congresso internazionale &#8220;Dalla mater et Magistra alla Caritas in Veritate&#8221; è stata realizzata un <a href="http://dottrinasocialedellachiesa.net/">sito</a> e un  <a href="http://itunes.apple.com/it/app/dottrina-sociale-della-chiesa/id437030828?mt=8">App</a> chiamata &#8220;dottrina sociale della chiesa&#8221;, dove potete trovare alcuni degli argomenti trattati nel convegno.</p>
+<p><a href="http://itunes.apple.com/it/app/dottrina-sociale-della-chiesa/id437030828?mt=8"><img title="Default" alt="" src="http://trigomiro.net/wp-content/uploads/2011/11/Default-200x300.png" width="200" height="300" /></a></p>
+<p>Dall&#8217;applicazione è anche possibile scaricare l&#8217;ebook di &#8220;caritas in veritate&#8221;, l&#8217;enciclica di papa Benedetto XVI.</p>
+<p><a href="http://trigomiro.net/wp-content/uploads/2011/11/civ.jpg"><img title="civ" alt="" src="http://trigomiro.net/wp-content/uploads/2011/11/civ.jpg" width="71" height="100" /></a></p>
+<p>The post <a rel="nofollow" href="http://trigomiro.net/mobile-application-per-il-vaticano/">Mobile application per il Vaticano</a> appeared first on <a rel="nofollow" href="http://trigomiro.net">Trigomiro Creativo</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://trigomiro.net/mobile-application-per-il-vaticano/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 33/67 objects using disk
+Page Caching using disk: enhanced (Page is feed) 
+Minified using disk
+Database Caching using disk (Request-wide modification query)
+
+Served from: trigomiro.net @ 2019-04-22 23:32:27 by W3 Total Cache
+-->

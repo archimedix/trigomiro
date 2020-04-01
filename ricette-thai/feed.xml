@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:3A9862A2-9C2D-483E-97FD-81C6657CE1BF</id>
+ <title>Page list Atom feed</title>
+ <updated>2012-06-03T20:45:15+02:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+</feed>
